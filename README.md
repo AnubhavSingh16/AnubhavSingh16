@@ -11,7 +11,7 @@
 -🔧 Node.js for scalable, high-performance back-end development
 
 -🧠 Strong problem-solving skills:
- 💡Solved 200+ Data Structures and Algorithms problems
+ 💡Solved 250+ Data Structures and Algorithms problems
 
 -🌱 Always eager to learn new technologies and frameworks
 
